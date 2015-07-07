@@ -54,3 +54,19 @@ liste des séries présentées ;
 – Visualisation des séries, des CD et des questions de chaque série ;
 – Facultatif : Edition (ajout, modification, suppression) d’une série,
 d’un CD et des questions.
+
+Contribuer
+==========
+
+Les contributeurs sont évidemment les bienvenues. N'hésitez pas à "forker" le
+projet si vous avez plusieurs modifications ou fonctionnalités à
+soumettre. Vous pouvez toujours faire un patch, 
+que je me ferai le plaisir de corriger s'il est effectivement valable.
+
+Merci d'avance aux contributeurs. :-)
+
+
+Contact
+=======
+
+*  **Email :**  msaidara@gmail.com
